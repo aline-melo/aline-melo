@@ -6,13 +6,13 @@
 <br>
 <div align="center">
   <a href="https://github.com/aline-melo">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aline-melo&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave&hide_border=false&show_owner=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aline-melo&layout=compact&langs_count=7&theme=synthwave"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aline-melo&count_private=true&include_all_commits=true&show_icons=true&theme=monokai&hide_border=false&show_owner=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aline-melo&layout=compact&langs_count=7&theme=monokai"/>
   </a>
 </div>
 
 <div align="center">
-<img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aline-melo&theme=omni"/> 
+<img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aline-melo&theme=monokai"/> 
 <br>
 
 </div>
