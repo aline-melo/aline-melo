@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-<img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aline-melo&theme=dracula"/> 
+<img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aline-melo&theme=radical"/> 
 <br>
 
 </div>
